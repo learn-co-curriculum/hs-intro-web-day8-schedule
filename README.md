@@ -1,6 +1,6 @@
 ---
 tags: schedule, kids, web, intro
-language: ruby
+language: html, css
 level: 1
 type: schedule
 ---
